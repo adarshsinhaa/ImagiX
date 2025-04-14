@@ -1,2 +1,2 @@
 # ImagiX
-ImagiX is a powerful AI-image generation tool.
+A cool project about XYZ.
