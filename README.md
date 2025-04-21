@@ -1,6 +1,6 @@
-# ImagiX 🎨
+# Imaginify 🎨
 
-ImagiX is a modern image editing and enhancement tool built for developers and designers. It offers powerful filters, AI enhancements, and a clean interface to help you transform your visuals in seconds.
+Imaginify is a modern image editing and enhancement tool built for developers and designers. It offers powerful filters, AI enhancements, and a clean interface to help you transform your visuals in seconds.
 
 ---
 
@@ -19,10 +19,10 @@ ImagiX is a modern image editing and enhancement tool built for developers and d
 ### 📥 Clone the repository
 
 ```bash
-git clone https://github.com/adarshsinhaa/ImagiX.git
+git clone https://github.com/adarshsinhaa/Imaginify.git
 
 📂 Navigate to the project directory
-cd ImagiX
+cd Imaginify
 
 Install dependencies
 npm install
