@@ -1,5 +1,7 @@
 @import "tailwindcss";
 @import "tw-animate-css";
+@import "tailwindcss/preflight";
+@import "tailwindcss/utilities";
 
 @custom-variant dark (&:is(.dark *));
 
@@ -120,3 +122,6 @@
     @apply bg-background text-foreground;
   }
 }
+/* .auth {
+  @apply flex-center min-h-screen w-full bg-purple-100
+} */
